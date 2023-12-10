@@ -1,0 +1,2 @@
+# AlgoVisualizer
+Visualizing different algorithms
